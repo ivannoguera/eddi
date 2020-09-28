@@ -1,4 +1,4 @@
-#Required packages
+#Require packages
 install.packages('ncdf4')
 library(ncdf4)
 install.packages('lmom')
